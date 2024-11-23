@@ -1,0 +1,1001 @@
+QuestionID,StudentID,AnswerLength,TimeTaken,Correctness,Grade,QuestionType,Subject,Difficulty
+Q2,S12,928,85.16,84,7.8,Essay,Literature,Medium
+Q3,S58,819,131.02,83,7.9,Multiple Choice,Geography,Medium
+Q4,S93,254,66.58,65,6.9,Essay,Science,Easy
+Q5,S52,564,96.09,41,3.9,Short Answer,History,Easy
+Q6,S20,152,124.13,44,3.8,Essay,Math,Easy
+Q7,S29,626,107.39,24,2.3,Multiple Choice,Literature,Medium
+Q8,S14,136,169.78,95,10.0,Essay,Literature,Hard
+Q9,S80,558,30.24,58,6.5,Multiple Choice,Math,Easy
+Q10,S31,85,11.61,78,7.2,Short Answer,Literature,Easy
+Q11,S73,105,83.12,42,5.1,Multiple Choice,Math,Easy
+Q12,S53,876,3.7,37,3.4,Essay,Math,Medium
+Q13,S99,381,75.96,98,9.1,Short Answer,History,Hard
+Q14,S97,780,149.01,12,1.4,Essay,Science,Hard
+Q15,S82,633,80.17,8,0.3,Short Answer,Math,Hard
+Q16,S5,99,26.84,49,5.1,Multiple Choice,Literature,Hard
+Q17,S48,516,2.5,21,1.7,Essay,Literature,Medium
+Q18,S36,954,107.78,36,4.2,Essay,Literature,Hard
+Q19,S95,793,177.8,50,5.4,Multiple Choice,Geography,Easy
+Q20,S17,684,94.9,43,4.9,Short Answer,Math,Hard
+Q21,S13,787,63.87,98,9.1,Essay,Science,Hard
+Q22,S55,523,148.24,4,1.1,Essay,Math,Easy
+Q23,S96,6,164.43,15,1.5,Multiple Choice,Science,Medium
+Q24,S34,971,178.9,58,6.7,Multiple Choice,Geography,Hard
+Q25,S99,712,20.42,63,6.7,Multiple Choice,Literature,Easy
+Q26,S70,812,133.99,12,2.0,Multiple Choice,Geography,Hard
+Q27,S60,891,114.25,22,2.4,Multiple Choice,Science,Hard
+Q28,S52,148,138.36,8,1.0,Multiple Choice,History,Medium
+Q29,S79,482,16.94,30,3.8,Short Answer,Math,Medium
+Q30,S19,904,168.16,95,9.2,Essay,Science,Hard
+Q31,S79,365,90.9,61,5.1,Short Answer,History,Easy
+Q32,S54,217,37.83,86,8.2,Multiple Choice,Geography,Easy
+Q33,S23,138,153.46,35,3.5,Essay,Geography,Medium
+Q34,S30,257,34.09,85,8.3,Short Answer,Geography,Easy
+Q35,S22,837,10.92,8,1.4,Short Answer,History,Easy
+Q36,S32,506,23.77,28,1.9,Multiple Choice,Literature,Medium
+Q37,S77,565,119.22,59,6.2,Essay,Math,Hard
+Q38,S49,668,177.9,64,7.2,Multiple Choice,Math,Hard
+Q39,S44,429,58.88,44,4.5,Essay,Literature,Medium
+Q40,S52,164,108.29,93,10.1,Short Answer,Literature,Hard
+Q41,S88,959,47.15,86,9.5,Short Answer,History,Hard
+Q42,S18,316,157.7,91,9.0,Multiple Choice,Math,Easy
+Q43,S40,796,150.15,86,9.5,Short Answer,History,Easy
+Q44,S74,960,19.12,33,2.6,Essay,History,Hard
+Q45,S6,328,174.19,40,4.6,Multiple Choice,Science,Easy
+Q46,S63,535,28.36,46,4.5,Short Answer,Math,Medium
+Q47,S4,639,61.28,63,6.0,Short Answer,Literature,Medium
+Q48,S12,607,64.32,40,3.0,Short Answer,Geography,Medium
+Q49,S54,492,13.78,57,5.9,Short Answer,Geography,Medium
+Q50,S58,756,179.71,40,3.7,Multiple Choice,Geography,Easy
+Q1,S82,28,43.23,27,2.0,Essay,Math,Easy
+Q2,S47,962,123.13,2,0.4,Multiple Choice,Geography,Medium
+Q3,S19,104,113.36,82,7.6,Short Answer,Science,Hard
+Q4,S37,539,145.71,55,5.2,Multiple Choice,Math,Easy
+Q5,S35,859,139.14,79,8.8,Short Answer,Math,Hard
+Q6,S61,909,143.99,35,2.9,Essay,Science,Medium
+Q7,S63,407,36.61,15,2.4,Essay,Geography,Medium
+Q8,S29,688,28.41,41,3.3,Multiple Choice,History,Medium
+Q9,S73,409,68.37,14,1.3,Multiple Choice,History,Medium
+Q10,S47,161,87.1,24,1.4,Essay,Literature,Medium
+Q11,S2,793,36.04,58,5.6,Essay,Math,Hard
+Q12,S55,586,113.36,8,1.8,Essay,Literature,Hard
+Q13,S2,848,173.09,77,8.0,Short Answer,History,Medium
+Q14,S37,317,48.42,26,2.7,Essay,Literature,Easy
+Q15,S7,299,155.5,95,10.0,Multiple Choice,Science,Hard
+Q16,S76,117,66.11,47,4.4,Essay,Science,Hard
+Q17,S57,735,100.98,14,2.1,Essay,Geography,Medium
+Q18,S42,852,52.65,47,5.5,Short Answer,History,Easy
+Q19,S56,766,106.55,55,5.6,Essay,Geography,Hard
+Q20,S98,381,153.77,1,-0.3,Short Answer,Math,Easy
+Q21,S19,44,117.69,23,1.8,Essay,Math,Easy
+Q22,S39,370,136.14,60,5.4,Multiple Choice,Science,Medium
+Q23,S64,360,88.34,8,0.2,Short Answer,Literature,Easy
+Q24,S12,452,42.13,30,3.7,Essay,History,Hard
+Q25,S75,274,69.09,33,3.8,Essay,Science,Easy
+Q26,S82,322,166.69,17,1.8,Essay,Geography,Hard
+Q27,S46,717,4.38,30,3.4,Short Answer,Geography,Medium
+Q28,S47,863,133.51,85,7.8,Essay,Literature,Medium
+Q29,S76,677,169.06,36,4.3,Multiple Choice,History,Hard
+Q30,S32,97,47.59,58,5.0,Essay,Math,Medium
+Q31,S36,979,43.45,26,1.9,Essay,History,Hard
+Q32,S60,106,179.45,67,6.2,Multiple Choice,History,Hard
+Q33,S41,564,44.83,76,7.3,Multiple Choice,Math,Easy
+Q34,S78,59,85.35,3,0.9,Essay,Geography,Easy
+Q35,S24,877,170.01,37,3.7,Essay,Literature,Easy
+Q36,S43,157,66.37,23,3.0,Multiple Choice,Science,Hard
+Q37,S37,851,128.13,45,4.2,Essay,Geography,Easy
+Q38,S22,710,106.73,47,4.3,Essay,History,Hard
+Q39,S54,486,20.28,1,1.0,Short Answer,Literature,Hard
+Q40,S54,48,112.03,89,9.7,Multiple Choice,Science,Hard
+Q41,S50,22,83.54,47,5.3,Multiple Choice,Math,Hard
+Q42,S14,990,43.75,41,4.5,Essay,Science,Easy
+Q43,S9,143,106.26,93,8.8,Short Answer,Geography,Medium
+Q44,S81,605,163.16,42,5.0,Essay,Literature,Hard
+Q45,S14,804,9.14,47,3.9,Essay,Math,Easy
+Q46,S80,857,163.73,66,7.3,Short Answer,Science,Hard
+Q47,S51,381,123.03,45,4.1,Multiple Choice,Science,Hard
+Q48,S69,19,147.01,7,-0.2,Multiple Choice,Math,Medium
+Q49,S60,309,72.97,50,4.7,Short Answer,Literature,Easy
+Q50,S34,809,61.97,47,4.8,Multiple Choice,Math,Medium
+Q1,S32,241,78.09,21,2.2,Essay,Science,Medium
+Q2,S23,95,161.82,62,5.5,Short Answer,Math,Hard
+Q3,S7,657,26.48,55,5.3,Essay,History,Easy
+Q4,S28,209,77.64,6,-0.1,Short Answer,History,Medium
+Q5,S47,845,85.19,71,7.2,Short Answer,Geography,Easy
+Q6,S32,448,105.38,58,6.6,Essay,Math,Easy
+Q7,S35,660,99.61,93,9.1,Multiple Choice,Science,Easy
+Q8,S98,626,124.68,100,10.7,Short Answer,Literature,Hard
+Q9,S84,432,153.68,23,2.0,Short Answer,Science,Medium
+Q10,S80,245,26.73,41,3.7,Multiple Choice,Geography,Medium
+Q11,S15,192,46.44,58,5.8,Multiple Choice,History,Easy
+Q12,S22,218,114.62,26,2.6,Essay,Literature,Medium
+Q13,S62,76,142.32,45,4.9,Short Answer,Literature,Hard
+Q14,S27,524,110.82,92,8.8,Short Answer,History,Easy
+Q15,S59,939,76.17,75,8.3,Short Answer,Geography,Easy
+Q16,S2,670,39.78,50,4.9,Multiple Choice,Literature,Easy
+Q17,S24,221,143.61,75,8.4,Short Answer,Math,Hard
+Q18,S36,198,143.01,19,2.1,Multiple Choice,History,Easy
+Q19,S46,475,10.64,58,5.8,Short Answer,Math,Medium
+Q20,S1,874,158.96,58,5.7,Essay,History,Hard
+Q21,S98,348,5.42,73,7.2,Short Answer,Geography,Easy
+Q22,S60,540,82.64,25,3.0,Multiple Choice,Literature,Easy
+Q23,S16,245,79.02,98,9.6,Multiple Choice,History,Hard
+Q24,S43,473,146.32,34,3.0,Essay,Literature,Medium
+Q25,S14,294,6.04,47,4.5,Essay,Geography,Medium
+Q26,S29,81,163.67,45,4.1,Multiple Choice,Math,Hard
+Q27,S9,749,5.88,94,9.0,Essay,History,Hard
+Q28,S54,770,143.67,53,5.6,Essay,Literature,Easy
+Q29,S31,878,25.44,41,4.1,Essay,Math,Easy
+Q30,S15,372,45.32,46,5.6,Multiple Choice,Math,Hard
+Q31,S14,638,41.21,35,3.3,Essay,Math,Easy
+Q32,S8,7,25.18,54,4.7,Essay,Math,Medium
+Q33,S48,187,105.17,93,8.7,Essay,Science,Easy
+Q34,S74,471,109.82,6,0.1,Short Answer,Geography,Easy
+Q35,S53,175,37.87,65,7.1,Multiple Choice,Geography,Hard
+Q36,S23,58,122.88,83,8.4,Short Answer,Math,Easy
+Q37,S90,329,5.11,74,6.8,Multiple Choice,Geography,Hard
+Q38,S94,594,40.59,82,9.1,Short Answer,Literature,Hard
+Q39,S65,471,139.92,24,1.5,Multiple Choice,Math,Easy
+Q40,S84,476,142.05,93,9.0,Multiple Choice,Math,Hard
+Q41,S27,289,66.39,78,8.1,Multiple Choice,Math,Hard
+Q42,S33,112,10.43,94,8.7,Multiple Choice,Geography,Hard
+Q43,S54,446,126.78,32,3.3,Multiple Choice,Geography,Hard
+Q44,S90,713,124.73,35,4.1,Essay,Math,Medium
+Q45,S60,859,152.37,75,8.3,Multiple Choice,Math,Medium
+Q46,S36,219,119.19,17,2.2,Essay,Science,Easy
+Q47,S47,907,57.52,39,4.8,Essay,Geography,Medium
+Q48,S20,98,87.49,89,9.5,Multiple Choice,History,Easy
+Q49,S78,647,63.56,81,7.2,Short Answer,Science,Medium
+Q50,S20,793,9.13,98,10.0,Essay,Geography,Hard
+Q1,S71,227,128.7,84,8.4,Essay,Science,Hard
+Q2,S22,971,165.89,70,6.2,Multiple Choice,Literature,Hard
+Q3,S27,1000,104.14,37,2.8,Multiple Choice,Science,Medium
+Q4,S45,31,138.43,97,8.8,Short Answer,Math,Easy
+Q5,S58,251,125.1,39,3.6,Short Answer,Geography,Easy
+Q6,S39,703,167.3,84,8.0,Multiple Choice,Geography,Easy
+Q7,S2,164,136.48,58,6.6,Short Answer,History,Hard
+Q8,S22,227,80.24,76,8.3,Short Answer,Science,Hard
+Q9,S27,761,151.54,23,2.4,Short Answer,Geography,Hard
+Q10,S98,470,138.1,20,1.7,Multiple Choice,Science,Easy
+Q11,S14,392,29.07,93,8.5,Short Answer,Science,Medium
+Q12,S86,288,12.02,100,10.0,Multiple Choice,Geography,Medium
+Q13,S90,316,59.52,88,9.6,Multiple Choice,History,Easy
+Q14,S79,820,63.31,76,8.5,Short Answer,Science,Medium
+Q15,S9,265,94.26,15,2.5,Multiple Choice,Math,Medium
+Q16,S75,894,85.91,75,8.2,Multiple Choice,Geography,Medium
+Q17,S11,926,173.05,62,5.9,Multiple Choice,Geography,Medium
+Q18,S9,505,155.53,71,7.0,Essay,Geography,Hard
+Q19,S16,407,108.96,88,9.5,Short Answer,Geography,Medium
+Q20,S13,508,42.08,89,9.6,Essay,Science,Medium
+Q21,S17,407,158.59,55,4.8,Multiple Choice,Science,Easy
+Q22,S50,904,12.11,40,3.4,Essay,Literature,Easy
+Q23,S43,369,27.25,96,10.1,Essay,Math,Hard
+Q24,S74,294,97.73,84,7.7,Short Answer,Science,Medium
+Q25,S26,496,119.32,74,6.6,Essay,History,Medium
+Q26,S45,715,62.74,64,6.5,Multiple Choice,History,Medium
+Q27,S71,926,40.74,33,3.5,Multiple Choice,Geography,Easy
+Q28,S72,949,39.83,43,3.8,Essay,Literature,Easy
+Q29,S18,655,50.61,41,4.8,Multiple Choice,Literature,Easy
+Q30,S52,139,120.3,49,4.2,Short Answer,Geography,Medium
+Q31,S17,536,138.37,98,8.8,Multiple Choice,Literature,Hard
+Q32,S59,790,94.34,100,10.7,Essay,Literature,Medium
+Q33,S76,461,33.83,27,3.6,Essay,Math,Medium
+Q34,S89,413,125.07,62,5.4,Multiple Choice,Science,Hard
+Q35,S51,116,171.82,17,1.7,Multiple Choice,Math,Hard
+Q36,S76,368,117.67,2,-0.7,Short Answer,Math,Hard
+Q37,S52,883,65.93,83,7.6,Multiple Choice,Geography,Easy
+Q38,S76,697,170.41,7,0.8,Essay,Math,Easy
+Q39,S18,847,50.72,58,4.9,Short Answer,Math,Easy
+Q40,S6,689,28.64,32,4.1,Multiple Choice,Math,Hard
+Q41,S60,66,32.36,21,2.9,Short Answer,History,Medium
+Q42,S74,554,55.11,75,8.4,Multiple Choice,History,Hard
+Q43,S39,548,93.96,0,0.5,Multiple Choice,History,Hard
+Q44,S10,130,119.55,62,5.4,Essay,Math,Easy
+Q45,S90,664,34.66,74,8.2,Multiple Choice,Science,Medium
+Q46,S26,916,75.02,43,4.7,Multiple Choice,Math,Hard
+Q47,S29,374,116.42,33,2.9,Essay,Literature,Hard
+Q48,S58,190,174.18,69,7.9,Essay,Geography,Medium
+Q49,S31,998,122.85,84,9.0,Essay,Science,Hard
+Q50,S56,532,8.57,76,8.1,Multiple Choice,History,Hard
+Q1,S83,418,146.55,5,-0.0,Multiple Choice,History,Medium
+Q2,S55,974,135.02,87,9.1,Short Answer,Science,Hard
+Q3,S74,997,113.11,99,9.5,Multiple Choice,Literature,Easy
+Q4,S97,482,65.1,11,1.0,Multiple Choice,Literature,Easy
+Q5,S30,73,26.19,96,9.9,Short Answer,Math,Medium
+Q6,S62,80,124.23,79,8.4,Essay,Science,Easy
+Q7,S81,242,34.57,53,6.0,Short Answer,Math,Easy
+Q8,S58,23,93.8,51,5.7,Essay,Literature,Hard
+Q9,S41,320,150.87,72,6.9,Short Answer,Literature,Easy
+Q10,S37,869,6.14,41,3.6,Short Answer,Literature,Hard
+Q11,S6,179,126.2,32,2.7,Short Answer,Geography,Medium
+Q12,S80,343,170.5,30,2.3,Multiple Choice,History,Medium
+Q13,S61,56,70.09,60,6.9,Short Answer,Literature,Medium
+Q14,S9,959,169.38,32,3.3,Short Answer,History,Medium
+Q15,S10,204,5.55,89,9.1,Essay,History,Medium
+Q16,S34,937,156.79,45,5.4,Essay,Literature,Medium
+Q17,S74,168,94.51,62,6.0,Multiple Choice,Science,Medium
+Q18,S44,532,162.41,23,1.5,Multiple Choice,Math,Hard
+Q19,S95,600,156.37,67,7.3,Essay,Geography,Easy
+Q20,S4,22,25.42,94,8.8,Short Answer,Science,Hard
+Q21,S96,703,147.96,26,2.7,Multiple Choice,Science,Easy
+Q22,S25,619,114.36,63,6.2,Essay,Literature,Medium
+Q23,S54,190,156.64,29,3.0,Short Answer,Literature,Medium
+Q24,S45,173,124.88,78,7.2,Essay,Literature,Easy
+Q25,S64,596,90.78,80,8.2,Essay,Math,Hard
+Q26,S57,417,101.23,15,0.8,Multiple Choice,Literature,Hard
+Q27,S38,743,126.98,29,3.9,Short Answer,Math,Medium
+Q28,S58,133,19.94,92,10.1,Short Answer,Literature,Medium
+Q29,S14,473,131.17,24,1.6,Multiple Choice,Science,Medium
+Q30,S69,110,27.5,9,1.4,Multiple Choice,Geography,Easy
+Q31,S26,874,63.97,6,1.3,Short Answer,Literature,Easy
+Q32,S92,945,26.56,39,3.6,Multiple Choice,Literature,Medium
+Q33,S74,851,75.76,43,4.9,Multiple Choice,Science,Medium
+Q34,S65,195,29.37,13,1.0,Multiple Choice,History,Medium
+Q35,S78,768,30.99,39,4.3,Essay,History,Medium
+Q36,S23,422,132.03,10,0.9,Short Answer,Math,Medium
+Q37,S28,59,17.08,33,2.6,Essay,History,Easy
+Q38,S43,323,100.58,49,5.2,Essay,Math,Easy
+Q39,S29,230,6.68,56,6.2,Multiple Choice,Science,Easy
+Q40,S33,216,46.58,3,0.1,Essay,Literature,Easy
+Q41,S48,327,175.28,50,4.3,Essay,Science,Hard
+Q42,S44,888,152.26,20,2.7,Multiple Choice,Science,Hard
+Q43,S60,356,103.24,97,9.7,Multiple Choice,Geography,Medium
+Q44,S56,89,38.95,65,6.3,Short Answer,Science,Medium
+Q45,S91,628,18.53,61,5.6,Essay,Literature,Easy
+Q46,S16,742,129.38,71,6.4,Multiple Choice,Geography,Hard
+Q47,S14,566,8.42,60,5.6,Multiple Choice,Math,Easy
+Q48,S95,125,176.77,82,9.2,Short Answer,Science,Easy
+Q49,S65,487,65.24,71,6.9,Short Answer,Literature,Easy
+Q50,S25,268,104.08,77,8.1,Essay,Science,Easy
+Q1,S46,948,29.2,92,8.9,Short Answer,Geography,Hard
+Q2,S66,447,8.19,24,3.0,Multiple Choice,History,Easy
+Q3,S30,336,161.05,22,2.8,Multiple Choice,Literature,Hard
+Q4,S53,235,96.7,67,6.9,Multiple Choice,Science,Hard
+Q5,S93,818,35.73,76,7.4,Multiple Choice,Geography,Hard
+Q6,S32,390,162.52,100,10.8,Multiple Choice,Math,Easy
+Q7,S40,659,101.43,88,9.7,Short Answer,Science,Medium
+Q8,S88,763,49.29,31,2.5,Short Answer,Math,Hard
+Q9,S3,484,38.31,17,2.4,Multiple Choice,Literature,Medium
+Q10,S15,780,32.15,32,2.3,Essay,Science,Hard
+Q11,S100,356,71.64,44,4.1,Short Answer,Math,Medium
+Q12,S13,956,129.78,55,5.4,Short Answer,Geography,Medium
+Q13,S28,139,37.1,31,3.5,Multiple Choice,Science,Easy
+Q14,S51,935,4.25,93,9.5,Short Answer,Literature,Hard
+Q15,S86,657,139.68,92,9.1,Essay,Literature,Hard
+Q16,S56,73,141.83,99,10.1,Short Answer,History,Hard
+Q17,S85,757,42.43,17,1.0,Short Answer,Science,Easy
+Q18,S73,734,138.05,1,0.4,Essay,Math,Hard
+Q19,S71,709,10.8,60,6.0,Multiple Choice,Science,Hard
+Q20,S18,461,36.5,63,5.6,Essay,History,Hard
+Q21,S51,418,78.65,56,5.1,Short Answer,History,Easy
+Q22,S38,49,134.04,87,9.3,Multiple Choice,Science,Hard
+Q23,S36,927,149.04,79,8.7,Short Answer,History,Medium
+Q24,S37,330,110.28,14,1.4,Short Answer,Literature,Easy
+Q25,S24,463,17.03,53,5.3,Essay,History,Medium
+Q26,S34,584,109.01,57,5.3,Multiple Choice,Science,Medium
+Q27,S18,289,9.8,21,2.3,Multiple Choice,History,Medium
+Q28,S78,930,33.85,91,8.8,Short Answer,Geography,Hard
+Q29,S87,342,78.66,94,8.5,Essay,Math,Easy
+Q30,S62,598,56.39,16,2.2,Multiple Choice,Science,Easy
+Q31,S78,46,1.99,22,3.1,Short Answer,Science,Easy
+Q32,S53,112,53.44,54,4.5,Multiple Choice,History,Medium
+Q33,S58,810,147.93,47,5.0,Short Answer,Geography,Easy
+Q34,S23,653,23.4,59,5.3,Multiple Choice,Literature,Easy
+Q35,S20,342,101.16,41,4.5,Multiple Choice,Science,Easy
+Q36,S26,913,45.03,91,8.3,Multiple Choice,Science,Easy
+Q37,S17,124,98.83,9,1.6,Multiple Choice,Geography,Hard
+Q38,S82,364,100.92,70,7.4,Short Answer,Science,Easy
+Q39,S39,506,30.43,70,7.1,Essay,Literature,Medium
+Q40,S39,205,63.48,9,0.2,Multiple Choice,Literature,Hard
+Q41,S86,195,81.69,82,8.4,Short Answer,Science,Medium
+Q42,S4,893,47.02,16,1.7,Essay,Science,Hard
+Q43,S83,259,131.79,33,2.7,Essay,History,Hard
+Q44,S42,655,163.44,32,2.4,Short Answer,Literature,Medium
+Q45,S35,18,18.15,100,10.6,Short Answer,Math,Hard
+Q46,S43,582,72.4,85,7.9,Multiple Choice,History,Easy
+Q47,S87,364,63.95,23,1.8,Essay,Math,Hard
+Q48,S69,760,36.86,14,1.1,Essay,Literature,Hard
+Q49,S54,534,76.14,54,5.5,Short Answer,Literature,Easy
+Q50,S8,290,162.58,26,1.7,Essay,Geography,Medium
+Q1,S6,649,93.53,70,6.4,Multiple Choice,Geography,Medium
+Q2,S38,700,50.84,48,4.8,Multiple Choice,Math,Hard
+Q3,S70,462,98.26,39,4.5,Multiple Choice,History,Medium
+Q4,S63,530,112.78,31,2.4,Essay,History,Easy
+Q5,S17,500,157.87,60,6.2,Short Answer,Literature,Hard
+Q6,S36,324,124.62,83,9.1,Essay,Literature,Medium
+Q7,S92,177,83.85,4,0.2,Essay,History,Easy
+Q8,S36,823,175.78,43,5.0,Multiple Choice,Geography,Easy
+Q9,S76,740,139.67,30,2.7,Short Answer,Geography,Medium
+Q10,S76,461,54.63,8,1.4,Short Answer,Math,Easy
+Q11,S48,874,22.41,85,8.1,Essay,Math,Medium
+Q12,S28,82,165.26,94,10.3,Multiple Choice,Math,Medium
+Q13,S20,900,45.35,92,8.8,Essay,Math,Hard
+Q14,S50,303,10.65,28,2.7,Short Answer,Geography,Easy
+Q15,S6,110,140.24,49,4.1,Short Answer,Geography,Medium
+Q16,S17,390,69.74,57,5.8,Essay,Geography,Easy
+Q17,S16,74,95.32,39,4.7,Multiple Choice,History,Hard
+Q18,S82,324,10.03,12,0.6,Multiple Choice,Math,Easy
+Q19,S22,561,18.49,82,7.9,Multiple Choice,Geography,Easy
+Q20,S69,483,102.92,50,5.9,Essay,Geography,Hard
+Q21,S20,855,85.7,40,4.4,Short Answer,History,Medium
+Q22,S62,158,83.61,100,9.3,Short Answer,Science,Hard
+Q23,S97,756,92.25,59,5.3,Essay,Math,Easy
+Q24,S23,705,26.84,36,4.2,Multiple Choice,Literature,Easy
+Q25,S8,821,112.76,63,5.8,Short Answer,Science,Medium
+Q26,S52,767,59.7,21,3.1,Essay,Literature,Medium
+Q27,S17,959,57.36,82,8.6,Multiple Choice,Geography,Easy
+Q28,S21,623,10.56,100,9.9,Short Answer,Science,Medium
+Q29,S7,220,170.89,100,9.4,Essay,Science,Easy
+Q30,S88,961,22.95,59,6.1,Multiple Choice,History,Medium
+Q31,S41,85,169.76,77,8.3,Multiple Choice,Math,Hard
+Q32,S18,105,155.99,53,5.5,Essay,Literature,Hard
+Q33,S96,711,137.6,63,6.0,Essay,Science,Easy
+Q34,S64,482,111.67,39,4.7,Short Answer,Math,Hard
+Q35,S28,357,65.25,88,8.2,Multiple Choice,History,Easy
+Q36,S47,664,34.86,22,2.2,Short Answer,Math,Easy
+Q37,S20,447,42.32,43,5.0,Essay,Geography,Hard
+Q38,S59,202,90.48,48,4.6,Essay,Science,Medium
+Q39,S62,65,65.82,94,9.4,Essay,Math,Easy
+Q40,S84,825,129.33,44,4.8,Essay,Math,Hard
+Q41,S32,995,108.34,98,9.0,Essay,History,Hard
+Q42,S13,914,8.23,76,7.2,Essay,History,Medium
+Q43,S98,499,1.19,87,8.5,Short Answer,Literature,Hard
+Q44,S7,589,104.55,92,10.0,Multiple Choice,Math,Easy
+Q45,S52,903,10.25,79,8.5,Essay,History,Medium
+Q46,S10,833,131.13,60,5.4,Multiple Choice,Geography,Medium
+Q47,S1,254,37.9,96,10.3,Multiple Choice,Literature,Hard
+Q48,S52,643,93.04,0,-0.9,Essay,Science,Easy
+Q49,S77,366,79.98,80,7.2,Multiple Choice,Math,Medium
+Q50,S9,30,97.58,48,4.4,Essay,Literature,Easy
+Q1,S83,718,26.42,84,7.5,Short Answer,History,Hard
+Q2,S50,787,84.52,93,9.7,Essay,Science,Easy
+Q3,S17,985,78.58,28,3.7,Short Answer,History,Easy
+Q4,S64,720,11.99,100,10.0,Short Answer,History,Medium
+Q5,S17,47,109.28,55,6.4,Multiple Choice,Math,Easy
+Q6,S81,809,163.16,21,1.1,Short Answer,Literature,Hard
+Q7,S84,23,34.59,66,7.2,Multiple Choice,Science,Easy
+Q8,S25,635,76.63,61,6.9,Essay,History,Hard
+Q9,S95,941,125.48,11,1.9,Multiple Choice,Science,Medium
+Q10,S59,161,117.02,72,7.4,Short Answer,Math,Easy
+Q11,S66,43,19.68,26,3.0,Short Answer,Science,Medium
+Q12,S76,549,104.15,5,0.8,Multiple Choice,Geography,Medium
+Q13,S22,745,30.95,70,8.0,Multiple Choice,Math,Easy
+Q14,S11,230,166.87,36,4.3,Multiple Choice,Geography,Hard
+Q15,S34,128,102.72,67,7.4,Short Answer,Science,Hard
+Q16,S21,53,170.05,20,1.0,Multiple Choice,Literature,Medium
+Q17,S45,555,99.54,32,2.8,Essay,Geography,Medium
+Q18,S50,805,55.05,76,7.1,Short Answer,History,Hard
+Q19,S11,1000,163.57,42,4.4,Short Answer,Literature,Easy
+Q20,S56,534,115.68,26,1.8,Multiple Choice,History,Medium
+Q21,S3,677,173.96,15,0.8,Essay,Science,Easy
+Q22,S42,121,97.63,84,7.9,Multiple Choice,Geography,Easy
+Q23,S60,101,168.93,36,4.5,Multiple Choice,Science,Hard
+Q24,S75,328,13.71,53,5.7,Essay,Literature,Medium
+Q25,S98,581,126.39,12,1.1,Short Answer,Geography,Hard
+Q26,S77,763,105.39,12,0.4,Multiple Choice,Geography,Hard
+Q27,S40,816,91.51,80,8.5,Essay,Geography,Hard
+Q28,S64,613,66.48,15,1.8,Short Answer,Geography,Medium
+Q29,S40,310,135.57,59,5.6,Short Answer,Math,Hard
+Q30,S90,719,99.51,79,7.1,Short Answer,Science,Hard
+Q31,S22,585,85.26,84,8.8,Essay,Geography,Hard
+Q32,S21,521,132.18,29,3.2,Short Answer,Science,Easy
+Q33,S97,798,1.39,24,3.3,Short Answer,Literature,Medium
+Q34,S69,522,33.45,23,3.0,Multiple Choice,Geography,Hard
+Q35,S1,275,88.01,23,2.3,Essay,History,Hard
+Q36,S77,695,81.57,86,8.1,Essay,Science,Medium
+Q37,S8,269,59.04,46,5.0,Multiple Choice,Geography,Hard
+Q38,S76,486,33.35,86,8.0,Short Answer,Science,Easy
+Q39,S37,37,21.62,34,3.6,Short Answer,Geography,Hard
+Q40,S8,926,128.18,48,5.2,Short Answer,Science,Hard
+Q41,S19,963,143.37,65,6.1,Multiple Choice,Geography,Easy
+Q42,S81,19,104.99,34,4.1,Multiple Choice,Math,Easy
+Q43,S42,414,14.36,79,8.5,Short Answer,History,Hard
+Q44,S27,942,110.1,5,-0.2,Short Answer,Math,Medium
+Q45,S12,983,175.89,83,7.8,Essay,History,Easy
+Q46,S55,117,158.66,70,6.1,Short Answer,Science,Medium
+Q47,S39,33,122.91,29,3.3,Essay,History,Hard
+Q48,S44,577,175.85,58,5.1,Essay,Literature,Medium
+Q49,S78,86,174.88,99,9.0,Essay,Science,Hard
+Q50,S7,858,154.32,18,1.4,Multiple Choice,Science,Easy
+Q1,S47,373,52.42,97,8.8,Essay,Science,Medium
+Q2,S15,211,137.4,31,2.8,Short Answer,Geography,Medium
+Q3,S60,991,104.46,12,0.5,Short Answer,Literature,Hard
+Q4,S93,272,171.71,83,8.1,Essay,Math,Hard
+Q5,S93,74,30.73,99,9.6,Essay,Math,Hard
+Q6,S62,177,110.33,58,6.4,Multiple Choice,History,Hard
+Q7,S29,324,113.86,31,2.3,Short Answer,Math,Medium
+Q8,S92,409,64.98,5,1.3,Essay,Math,Medium
+Q9,S89,981,33.15,82,7.8,Essay,History,Easy
+Q10,S95,944,100.59,17,1.1,Multiple Choice,Literature,Hard
+Q11,S2,25,8.03,9,1.2,Short Answer,History,Easy
+Q12,S26,423,126.07,36,4.6,Essay,Literature,Hard
+Q13,S87,589,145.54,3,0.4,Multiple Choice,Science,Medium
+Q14,S35,279,90.28,72,6.8,Essay,Math,Hard
+Q15,S5,26,63.88,15,0.7,Short Answer,Math,Hard
+Q16,S51,537,11.44,6,1.1,Short Answer,Literature,Medium
+Q17,S81,836,83.08,85,8.1,Short Answer,History,Easy
+Q18,S10,927,112.63,12,0.8,Essay,Literature,Easy
+Q19,S77,771,15.17,12,0.9,Essay,Math,Easy
+Q20,S88,728,48.69,30,3.3,Short Answer,Science,Easy
+Q21,S33,303,5.99,28,3.3,Essay,Literature,Easy
+Q22,S69,957,160.33,28,2.6,Essay,History,Hard
+Q23,S83,626,57.09,82,9.1,Essay,History,Medium
+Q24,S39,259,38.22,79,7.7,Short Answer,Geography,Medium
+Q25,S73,915,176.7,84,8.0,Multiple Choice,Math,Medium
+Q26,S36,661,100.69,55,4.8,Short Answer,Math,Easy
+Q27,S67,898,160.36,43,5.2,Short Answer,Math,Easy
+Q28,S38,409,24.06,37,2.9,Multiple Choice,Geography,Hard
+Q29,S87,703,68.38,22,1.3,Essay,Math,Easy
+Q30,S51,829,2.91,35,3.2,Essay,Math,Hard
+Q31,S34,704,61.21,76,8.4,Short Answer,Geography,Easy
+Q32,S84,299,129.21,100,10.9,Multiple Choice,History,Easy
+Q33,S52,539,97.99,14,1.9,Short Answer,History,Hard
+Q34,S85,233,144.05,37,3.7,Multiple Choice,Geography,Medium
+Q35,S89,356,126.49,53,5.3,Short Answer,Literature,Hard
+Q36,S77,734,113.82,46,4.9,Essay,Literature,Hard
+Q37,S96,577,121.86,0,-0.1,Essay,Science,Easy
+Q38,S21,11,173.62,28,2.2,Short Answer,History,Hard
+Q39,S30,534,10.53,11,1.2,Essay,Science,Easy
+Q40,S30,207,24.46,13,0.7,Multiple Choice,Literature,Easy
+Q41,S74,17,1.26,65,7.4,Short Answer,History,Medium
+Q42,S57,735,49.18,9,0.5,Short Answer,History,Medium
+Q43,S77,140,12.41,50,4.2,Essay,Geography,Hard
+Q44,S84,892,178.53,50,4.7,Essay,History,Easy
+Q45,S4,540,110.06,29,3.3,Essay,Literature,Easy
+Q46,S79,154,158.36,5,0.9,Short Answer,Science,Easy
+Q47,S64,7,48.45,40,4.5,Essay,Math,Easy
+Q48,S83,772,111.79,12,2.0,Essay,History,Hard
+Q49,S3,259,108.95,3,-0.4,Essay,Science,Easy
+Q50,S6,380,78.64,39,3.6,Short Answer,Literature,Medium
+Q1,S52,367,68.86,64,6.8,Multiple Choice,Geography,Medium
+Q2,S21,465,111.74,68,6.7,Multiple Choice,History,Hard
+Q3,S38,893,155.48,13,1.6,Essay,Math,Medium
+Q4,S29,669,144.34,15,2.1,Essay,Literature,Medium
+Q5,S90,49,55.31,57,5.4,Essay,Science,Easy
+Q6,S42,31,81.69,55,4.7,Essay,History,Hard
+Q7,S1,761,147.85,66,7.2,Multiple Choice,Math,Medium
+Q8,S92,777,91.59,54,5.9,Multiple Choice,Science,Easy
+Q9,S57,246,28.06,87,8.2,Short Answer,Math,Hard
+Q10,S74,593,168.88,57,4.7,Multiple Choice,Math,Easy
+Q11,S62,47,103.26,26,2.8,Essay,Math,Medium
+Q12,S8,265,8.68,56,5.6,Essay,Geography,Hard
+Q13,S73,700,172.17,85,8.9,Essay,Science,Easy
+Q14,S50,240,141.02,95,9.7,Multiple Choice,History,Easy
+Q15,S89,786,157.87,64,5.6,Multiple Choice,Math,Easy
+Q16,S76,178,54.18,74,6.5,Short Answer,Geography,Hard
+Q17,S19,771,67.83,19,1.0,Short Answer,Literature,Easy
+Q18,S29,511,59.36,16,1.4,Short Answer,Literature,Medium
+Q19,S31,487,91.83,28,1.8,Short Answer,History,Medium
+Q20,S92,454,25.45,63,6.2,Multiple Choice,History,Hard
+Q21,S49,277,106.2,9,-0.0,Short Answer,History,Easy
+Q22,S57,81,166.08,38,3.9,Essay,History,Easy
+Q23,S76,724,69.03,56,4.6,Multiple Choice,Literature,Hard
+Q24,S39,559,10.91,56,6.4,Short Answer,Math,Hard
+Q25,S96,562,128.44,56,5.2,Multiple Choice,Math,Easy
+Q26,S78,274,122.6,51,4.8,Essay,Literature,Medium
+Q27,S88,507,102.45,51,4.7,Multiple Choice,Geography,Easy
+Q28,S21,706,91.99,24,3.1,Multiple Choice,History,Easy
+Q29,S21,122,84.94,39,4.2,Multiple Choice,Geography,Medium
+Q30,S29,121,45.31,63,6.3,Short Answer,Geography,Easy
+Q31,S80,395,173.08,41,3.7,Essay,Math,Hard
+Q32,S33,628,133.07,95,8.6,Multiple Choice,Science,Hard
+Q33,S23,317,66.95,6,0.5,Essay,Math,Easy
+Q34,S60,26,149.89,94,8.8,Multiple Choice,Science,Hard
+Q35,S9,142,146.27,3,1.2,Essay,Math,Easy
+Q36,S15,616,62.56,72,8.1,Essay,Math,Easy
+Q37,S100,512,45.79,83,8.2,Essay,History,Medium
+Q38,S81,943,54.73,30,2.4,Short Answer,Geography,Hard
+Q39,S2,557,175.58,36,3.4,Short Answer,Math,Easy
+Q40,S53,236,66.88,95,9.6,Essay,Science,Hard
+Q41,S56,486,69.89,95,8.9,Multiple Choice,Science,Easy
+Q42,S59,537,153.85,19,1.1,Essay,Math,Easy
+Q43,S39,656,101.3,7,0.3,Essay,History,Medium
+Q44,S99,133,51.08,17,2.5,Short Answer,Science,Hard
+Q45,S20,929,25.77,64,6.1,Multiple Choice,History,Hard
+Q46,S44,338,103.41,64,5.8,Essay,Geography,Hard
+Q47,S66,312,77.79,49,5.6,Short Answer,Science,Easy
+Q48,S24,275,9.79,15,1.5,Multiple Choice,Geography,Medium
+Q49,S81,854,68.14,23,2.2,Short Answer,History,Medium
+Q50,S38,755,131.14,10,1.6,Essay,Geography,Medium
+Q1,S19,165,103.19,84,7.6,Multiple Choice,Geography,Hard
+Q2,S94,781,171.04,12,0.2,Short Answer,History,Medium
+Q3,S86,972,138.71,97,9.0,Short Answer,Math,Hard
+Q4,S21,469,144.36,93,10.1,Multiple Choice,Literature,Easy
+Q5,S60,829,176.5,57,5.5,Short Answer,Geography,Easy
+Q6,S44,395,133.24,77,8.3,Short Answer,History,Easy
+Q7,S10,919,68.75,46,5.5,Essay,Math,Hard
+Q8,S94,281,90.24,37,4.1,Multiple Choice,Science,Medium
+Q9,S41,154,133.11,52,6.1,Multiple Choice,History,Easy
+Q10,S76,932,31.5,64,5.7,Essay,History,Hard
+Q11,S92,666,159.63,73,7.0,Multiple Choice,History,Medium
+Q12,S34,33,12.85,60,5.5,Essay,History,Medium
+Q13,S93,980,141.14,49,5.0,Multiple Choice,History,Medium
+Q14,S60,238,173.09,94,10.1,Essay,History,Easy
+Q15,S81,534,109.3,41,3.3,Essay,Geography,Medium
+Q16,S73,111,115.74,42,4.9,Essay,Science,Medium
+Q17,S72,823,43.6,0,-0.5,Essay,Math,Hard
+Q18,S80,781,179.4,70,8.0,Short Answer,History,Medium
+Q19,S82,119,65.08,73,7.4,Short Answer,Science,Hard
+Q20,S7,95,173.87,14,0.9,Multiple Choice,Math,Easy
+Q21,S19,732,4.66,40,4.5,Short Answer,Science,Hard
+Q22,S92,691,152.58,19,2.8,Multiple Choice,History,Hard
+Q23,S16,586,136.53,73,7.0,Short Answer,Literature,Easy
+Q24,S7,992,141.67,99,9.1,Essay,Literature,Hard
+Q25,S61,190,161.99,15,1.6,Essay,Geography,Medium
+Q26,S36,921,51.2,92,9.7,Essay,Literature,Hard
+Q27,S75,609,80.31,45,4.6,Multiple Choice,History,Medium
+Q28,S79,177,49.02,11,0.9,Short Answer,Math,Hard
+Q29,S88,775,108.62,91,9.0,Short Answer,Science,Easy
+Q30,S6,910,136.92,11,0.3,Essay,History,Medium
+Q31,S47,818,81.17,2,-0.1,Essay,History,Easy
+Q32,S58,758,31.46,60,6.5,Multiple Choice,Math,Hard
+Q33,S38,565,134.25,40,4.4,Short Answer,Literature,Hard
+Q34,S63,768,41.12,19,2.6,Multiple Choice,Geography,Easy
+Q35,S34,802,141.54,55,4.7,Short Answer,History,Medium
+Q36,S30,166,176.97,82,8.7,Short Answer,Science,Medium
+Q37,S2,468,3.64,46,4.6,Short Answer,Literature,Hard
+Q38,S3,463,156.7,65,5.8,Multiple Choice,Math,Medium
+Q39,S6,657,119.23,64,5.5,Short Answer,Literature,Hard
+Q40,S100,773,132.11,68,6.0,Multiple Choice,History,Easy
+Q41,S19,216,161.65,3,0.8,Essay,Literature,Easy
+Q42,S43,857,117.44,77,7.2,Multiple Choice,History,Easy
+Q43,S59,423,129.23,98,9.8,Essay,Literature,Hard
+Q44,S21,974,159.18,91,9.7,Essay,Math,Medium
+Q45,S76,293,172.12,90,8.4,Essay,Geography,Easy
+Q46,S56,552,111.76,55,6.0,Short Answer,Literature,Easy
+Q47,S33,813,147.22,63,5.5,Essay,Geography,Medium
+Q48,S69,448,13.3,64,6.2,Essay,Geography,Hard
+Q49,S85,598,67.08,63,6.5,Essay,Literature,Easy
+Q50,S26,104,69.79,56,5.6,Essay,Math,Hard
+Q1,S5,424,107.2,29,3.0,Essay,Science,Easy
+Q2,S21,291,85.02,58,4.9,Short Answer,Literature,Easy
+Q3,S57,983,47.6,65,7.3,Short Answer,Math,Easy
+Q4,S51,855,63.72,90,9.0,Short Answer,Literature,Medium
+Q5,S4,372,13.3,19,2.2,Essay,Geography,Medium
+Q6,S51,556,89.56,66,6.2,Essay,History,Easy
+Q7,S84,386,48.43,34,2.9,Multiple Choice,Science,Easy
+Q8,S27,305,123.34,94,9.0,Short Answer,Science,Hard
+Q9,S70,903,116.91,10,0.8,Essay,History,Easy
+Q10,S26,810,5.31,17,2.2,Multiple Choice,Geography,Medium
+Q11,S77,631,86.54,59,5.9,Short Answer,Literature,Medium
+Q12,S33,673,37.31,96,9.8,Essay,Literature,Medium
+Q13,S91,976,137.08,63,5.9,Essay,Science,Hard
+Q14,S3,619,19.9,40,3.2,Short Answer,Literature,Hard
+Q15,S82,406,54.15,22,2.2,Multiple Choice,Science,Easy
+Q16,S97,839,1.83,65,6.5,Multiple Choice,Math,Medium
+Q17,S51,185,6.02,2,0.7,Multiple Choice,Geography,Hard
+Q18,S73,920,169.41,79,7.8,Multiple Choice,Science,Hard
+Q19,S6,136,51.24,65,7.0,Essay,Literature,Hard
+Q20,S3,794,46.08,50,5.6,Multiple Choice,Literature,Easy
+Q21,S26,432,157.48,16,1.9,Essay,Math,Easy
+Q22,S10,195,130.28,9,0.7,Short Answer,Literature,Hard
+Q23,S72,444,93.78,84,9.3,Essay,Math,Easy
+Q24,S64,884,100.56,41,5.0,Short Answer,Geography,Easy
+Q25,S17,986,129.03,75,6.7,Multiple Choice,Math,Hard
+Q26,S78,547,70.6,78,6.9,Short Answer,Science,Medium
+Q27,S49,932,43.18,64,5.8,Essay,Science,Hard
+Q28,S1,949,85.65,8,0.6,Essay,Literature,Medium
+Q29,S94,585,106.46,71,6.2,Essay,Geography,Hard
+Q30,S7,37,104.97,19,1.6,Multiple Choice,Science,Easy
+Q31,S84,910,62.34,98,9.5,Short Answer,Literature,Hard
+Q32,S50,723,175.77,9,0.7,Multiple Choice,Literature,Easy
+Q33,S2,267,45.64,53,4.5,Short Answer,Math,Hard
+Q34,S44,549,64.41,99,9.5,Short Answer,History,Medium
+Q35,S56,365,55.43,61,6.6,Essay,Geography,Medium
+Q36,S28,715,20.34,55,5.7,Short Answer,Math,Medium
+Q37,S22,97,98.13,70,7.1,Essay,Math,Easy
+Q38,S19,360,179.86,67,6.1,Essay,Literature,Medium
+Q39,S87,203,139.66,61,6.4,Multiple Choice,Literature,Hard
+Q40,S87,879,101.96,56,5.1,Multiple Choice,Science,Hard
+Q41,S39,293,1.85,52,4.8,Essay,Literature,Medium
+Q42,S26,644,35.76,21,2.0,Multiple Choice,Math,Hard
+Q43,S89,545,144.49,60,6.7,Multiple Choice,Math,Hard
+Q44,S73,846,48.24,38,3.8,Essay,Science,Easy
+Q45,S50,692,138.86,87,9.1,Essay,Science,Hard
+Q46,S87,400,49.99,95,10.4,Short Answer,Science,Easy
+Q47,S76,701,151.65,48,5.6,Multiple Choice,History,Easy
+Q48,S38,906,147.89,53,5.2,Essay,History,Medium
+Q49,S28,535,108.55,63,6.8,Short Answer,Literature,Hard
+Q50,S66,92,8.39,4,1.0,Essay,Science,Medium
+Q1,S39,50,55.64,43,3.8,Short Answer,Literature,Easy
+Q2,S93,394,98.46,83,8.0,Multiple Choice,Literature,Hard
+Q3,S26,68,1.43,62,6.2,Essay,Geography,Medium
+Q4,S76,204,43.48,67,5.8,Multiple Choice,Geography,Medium
+Q5,S18,32,178.71,78,7.8,Short Answer,Literature,Hard
+Q6,S25,884,34.79,77,8.0,Essay,Math,Easy
+Q7,S36,43,21.58,99,10.6,Essay,Geography,Easy
+Q8,S56,67,123.28,55,4.6,Essay,Math,Medium
+Q9,S97,934,24.23,7,-0.2,Short Answer,History,Hard
+Q10,S62,437,158.78,33,3.7,Short Answer,Science,Hard
+Q11,S44,43,97.68,72,7.0,Essay,Literature,Easy
+Q12,S54,621,111.81,17,2.5,Essay,Math,Medium
+Q13,S97,805,100.14,12,2.1,Short Answer,Math,Medium
+Q14,S85,921,67.64,35,4.3,Short Answer,Math,Easy
+Q15,S48,236,176.62,26,1.9,Essay,Geography,Easy
+Q16,S37,659,22.31,46,3.6,Multiple Choice,Literature,Hard
+Q17,S49,88,38.26,8,0.7,Multiple Choice,Math,Medium
+Q18,S61,191,142.48,73,6.3,Essay,Math,Hard
+Q19,S49,783,102.08,83,7.5,Essay,Math,Easy
+Q20,S85,838,19.7,46,4.2,Multiple Choice,Math,Easy
+Q21,S93,452,156.82,36,4.5,Multiple Choice,History,Easy
+Q22,S97,344,78.85,56,6.3,Essay,Math,Medium
+Q23,S7,116,26.37,83,9.1,Essay,Science,Medium
+Q24,S16,355,171.88,11,1.0,Short Answer,Literature,Hard
+Q25,S68,22,93.89,83,7.7,Essay,Literature,Easy
+Q26,S21,282,21.17,55,5.8,Essay,Math,Hard
+Q27,S73,584,132.02,13,1.0,Essay,Geography,Medium
+Q28,S100,14,9.22,48,5.5,Essay,History,Medium
+Q29,S87,994,153.7,5,-0.1,Short Answer,Geography,Hard
+Q30,S66,110,72.57,25,2.7,Multiple Choice,Math,Medium
+Q31,S8,206,146.94,72,6.5,Short Answer,Science,Medium
+Q32,S7,584,167.02,52,5.1,Essay,Science,Easy
+Q33,S8,863,165.61,53,4.4,Essay,Math,Easy
+Q34,S72,145,15.88,25,2.4,Multiple Choice,Math,Medium
+Q35,S52,628,56.19,37,4.0,Short Answer,History,Hard
+Q36,S46,763,104.0,34,2.7,Short Answer,Geography,Hard
+Q37,S49,499,40.61,94,8.7,Multiple Choice,Math,Hard
+Q38,S53,479,37.11,28,3.1,Short Answer,Math,Medium
+Q39,S10,555,119.48,91,9.5,Short Answer,History,Hard
+Q40,S33,736,107.39,22,2.6,Short Answer,Math,Hard
+Q41,S26,244,60.32,33,3.6,Essay,Science,Medium
+Q42,S85,46,67.88,1,0.6,Essay,Geography,Hard
+Q43,S41,659,69.74,53,5.0,Short Answer,Geography,Easy
+Q44,S59,364,150.71,34,3.9,Short Answer,Math,Easy
+Q45,S3,314,14.23,21,2.6,Multiple Choice,Math,Hard
+Q46,S32,991,34.8,21,1.5,Short Answer,Math,Hard
+Q47,S77,753,26.34,73,7.8,Multiple Choice,Geography,Easy
+Q48,S75,533,50.23,39,3.1,Multiple Choice,History,Easy
+Q49,S54,355,52.27,90,9.7,Short Answer,Geography,Easy
+Q50,S11,476,135.54,61,5.7,Short Answer,History,Hard
+Q1,S55,268,176.52,33,2.4,Multiple Choice,History,Medium
+Q2,S75,800,3.07,34,3.0,Essay,History,Easy
+Q3,S68,980,99.42,26,2.4,Multiple Choice,History,Hard
+Q4,S28,695,41.93,35,3.4,Short Answer,Math,Medium
+Q5,S33,407,141.0,22,1.9,Multiple Choice,History,Easy
+Q6,S99,333,76.28,37,4.2,Short Answer,Geography,Hard
+Q7,S68,161,11.76,98,9.4,Short Answer,Math,Medium
+Q8,S23,207,88.62,8,1.2,Short Answer,Literature,Easy
+Q9,S2,971,6.43,5,1.3,Multiple Choice,Math,Medium
+Q10,S97,509,54.25,30,3.6,Multiple Choice,Literature,Hard
+Q11,S76,385,64.04,86,7.8,Short Answer,History,Medium
+Q12,S9,871,176.92,8,1.0,Essay,Geography,Hard
+Q13,S5,256,77.95,90,9.9,Short Answer,Geography,Hard
+Q14,S25,241,108.34,56,6.3,Short Answer,Literature,Easy
+Q15,S80,173,127.38,94,9.4,Essay,History,Hard
+Q16,S79,226,151.01,67,7.6,Multiple Choice,Literature,Hard
+Q17,S3,372,90.12,73,7.3,Short Answer,Science,Hard
+Q18,S24,828,36.41,70,6.3,Essay,Geography,Easy
+Q19,S38,610,145.09,35,2.8,Multiple Choice,History,Medium
+Q20,S95,812,24.88,10,1.5,Short Answer,Math,Medium
+Q21,S23,553,29.5,21,2.8,Short Answer,Geography,Hard
+Q22,S17,978,179.71,56,5.8,Short Answer,History,Easy
+Q23,S26,661,91.28,63,6.4,Essay,History,Medium
+Q24,S30,191,125.01,11,1.3,Essay,Literature,Medium
+Q25,S60,42,93.65,81,7.7,Essay,Math,Hard
+Q26,S41,116,116.53,52,5.7,Essay,Literature,Medium
+Q27,S45,198,28.35,21,1.6,Essay,Math,Medium
+Q28,S9,925,53.03,84,8.8,Multiple Choice,History,Easy
+Q29,S41,519,144.6,48,5.7,Short Answer,Math,Hard
+Q30,S8,236,146.07,85,8.3,Short Answer,Literature,Hard
+Q31,S40,410,21.99,48,5.6,Short Answer,Math,Medium
+Q32,S59,345,158.95,2,-0.0,Short Answer,Science,Medium
+Q33,S38,673,179.49,8,0.8,Essay,Literature,Medium
+Q34,S15,243,170.5,46,5.4,Essay,Literature,Medium
+Q35,S20,172,144.24,51,4.5,Short Answer,Geography,Easy
+Q36,S12,205,146.01,21,2.6,Short Answer,Geography,Easy
+Q37,S84,305,91.35,36,3.9,Short Answer,Geography,Medium
+Q38,S70,671,100.03,21,2.0,Short Answer,Geography,Hard
+Q39,S83,316,139.1,26,2.6,Essay,Math,Hard
+Q40,S48,60,120.44,60,5.4,Essay,Math,Hard
+Q41,S76,432,34.34,90,8.6,Essay,Literature,Hard
+Q42,S47,761,110.56,50,5.5,Short Answer,Literature,Hard
+Q43,S43,404,30.13,18,1.2,Multiple Choice,Literature,Medium
+Q44,S15,219,57.84,31,3.9,Short Answer,History,Easy
+Q45,S13,953,2.36,44,4.6,Short Answer,Geography,Medium
+Q46,S87,969,144.99,68,6.9,Multiple Choice,Literature,Easy
+Q47,S83,972,161.69,35,2.8,Short Answer,History,Medium
+Q48,S59,925,98.33,2,1.0,Short Answer,Geography,Easy
+Q49,S18,467,142.1,81,7.6,Essay,Math,Hard
+Q50,S61,15,17.39,89,9.4,Essay,Science,Hard
+Q1,S56,792,152.73,41,3.9,Multiple Choice,Literature,Medium
+Q2,S39,535,117.12,54,4.9,Multiple Choice,History,Hard
+Q3,S48,702,119.27,0,0.7,Essay,Math,Hard
+Q4,S60,743,15.69,38,4.2,Multiple Choice,History,Medium
+Q5,S94,29,24.78,53,4.7,Short Answer,History,Easy
+Q6,S92,595,45.22,3,0.9,Short Answer,History,Hard
+Q7,S95,222,90.49,37,4.2,Essay,Geography,Easy
+Q8,S8,713,162.3,26,2.8,Essay,History,Hard
+Q9,S95,455,34.95,25,2.2,Multiple Choice,Science,Medium
+Q10,S88,726,89.63,50,5.2,Short Answer,Math,Medium
+Q11,S11,277,147.07,51,5.0,Multiple Choice,Literature,Medium
+Q12,S16,310,103.22,95,10.4,Short Answer,Geography,Easy
+Q13,S91,16,99.72,2,1.1,Essay,Literature,Easy
+Q14,S33,65,175.6,19,1.3,Short Answer,Math,Medium
+Q15,S64,955,14.07,79,8.4,Essay,Geography,Medium
+Q16,S73,214,176.37,7,1.3,Multiple Choice,Literature,Medium
+Q17,S84,809,166.78,25,2.8,Essay,Geography,Easy
+Q18,S95,184,88.38,42,4.3,Short Answer,History,Easy
+Q19,S59,608,4.43,1,-0.1,Multiple Choice,Math,Easy
+Q20,S59,290,114.6,24,2.3,Short Answer,Math,Easy
+Q21,S23,650,69.59,45,4.5,Multiple Choice,History,Medium
+Q22,S39,686,73.71,75,7.7,Essay,History,Easy
+Q23,S89,75,58.43,14,0.7,Short Answer,Literature,Medium
+Q24,S40,956,143.8,26,2.7,Multiple Choice,Math,Medium
+Q25,S71,585,102.16,33,2.7,Essay,Science,Hard
+Q26,S29,519,6.37,33,4.2,Short Answer,Literature,Easy
+Q27,S97,225,142.93,66,6.0,Essay,History,Medium
+Q28,S48,170,7.69,43,3.7,Short Answer,History,Hard
+Q29,S48,555,72.63,75,7.9,Essay,Literature,Easy
+Q30,S55,14,58.01,4,0.1,Multiple Choice,Math,Hard
+Q31,S78,223,152.83,27,2.9,Essay,Science,Hard
+Q32,S67,665,20.43,37,3.2,Essay,Math,Hard
+Q33,S9,953,2.53,55,5.7,Multiple Choice,History,Medium
+Q34,S65,29,77.82,73,6.7,Essay,Math,Easy
+Q35,S66,829,49.32,35,3.1,Essay,History,Medium
+Q36,S77,510,36.79,20,2.4,Essay,History,Medium
+Q37,S31,46,94.6,49,4.5,Essay,Literature,Easy
+Q38,S58,566,101.15,73,7.9,Essay,History,Hard
+Q39,S18,194,158.06,90,9.0,Multiple Choice,History,Easy
+Q40,S23,160,80.59,8,0.9,Multiple Choice,History,Medium
+Q41,S39,195,91.03,83,7.3,Essay,Science,Easy
+Q42,S45,295,40.36,45,3.9,Short Answer,Math,Medium
+Q43,S83,541,58.96,47,4.9,Short Answer,Literature,Medium
+Q44,S81,831,154.28,63,5.5,Short Answer,Math,Hard
+Q45,S21,590,52.09,74,7.7,Essay,Math,Medium
+Q46,S6,305,2.27,44,5.3,Essay,Geography,Easy
+Q47,S96,417,22.53,92,9.1,Essay,Geography,Medium
+Q48,S32,246,32.58,63,7.2,Short Answer,Geography,Easy
+Q49,S40,140,73.17,44,4.7,Essay,Math,Hard
+Q50,S48,435,156.41,81,8.4,Multiple Choice,History,Hard
+Q1,S58,470,133.82,64,6.8,Short Answer,Literature,Easy
+Q2,S95,897,47.46,77,7.6,Essay,Math,Medium
+Q3,S12,992,103.9,0,0.3,Multiple Choice,Geography,Hard
+Q4,S32,154,166.41,81,7.8,Multiple Choice,Geography,Medium
+Q5,S71,80,93.26,21,3.0,Short Answer,Math,Hard
+Q6,S12,44,63.82,29,3.0,Essay,Literature,Easy
+Q7,S57,950,128.35,75,7.7,Multiple Choice,History,Easy
+Q8,S91,169,116.52,97,8.9,Short Answer,History,Hard
+Q9,S18,609,168.24,39,4.3,Multiple Choice,Science,Easy
+Q10,S75,381,117.11,82,7.8,Multiple Choice,Geography,Hard
+Q11,S68,865,129.6,59,6.3,Essay,Literature,Easy
+Q12,S20,863,11.53,1,1.1,Multiple Choice,History,Medium
+Q13,S91,743,133.3,20,2.7,Short Answer,Literature,Hard
+Q14,S22,682,98.29,73,6.6,Essay,Math,Medium
+Q15,S33,348,139.38,72,7.0,Multiple Choice,History,Medium
+Q16,S50,119,121.23,85,9.3,Multiple Choice,Math,Easy
+Q17,S49,738,70.53,85,7.7,Essay,Literature,Medium
+Q18,S53,946,131.13,79,8.0,Essay,History,Easy
+Q19,S13,901,104.01,28,2.8,Essay,History,Hard
+Q20,S49,916,129.27,61,5.7,Essay,History,Hard
+Q21,S21,893,172.93,52,4.8,Essay,Science,Hard
+Q22,S100,391,9.55,41,4.3,Short Answer,Math,Hard
+Q23,S58,392,125.38,61,6.9,Multiple Choice,Geography,Medium
+Q24,S38,982,79.48,3,0.4,Multiple Choice,Science,Hard
+Q25,S99,351,125.25,90,9.4,Short Answer,History,Hard
+Q26,S70,689,154.43,34,3.5,Essay,Science,Easy
+Q27,S20,750,123.55,96,9.4,Multiple Choice,History,Medium
+Q28,S5,298,168.82,17,1.8,Essay,History,Medium
+Q29,S39,231,119.99,60,5.6,Essay,History,Medium
+Q30,S71,464,150.35,47,4.0,Multiple Choice,Math,Easy
+Q31,S52,838,122.14,50,4.1,Short Answer,History,Medium
+Q32,S35,155,3.18,67,7.1,Short Answer,History,Easy
+Q33,S48,868,176.55,47,3.8,Multiple Choice,History,Easy
+Q34,S20,244,67.63,82,8.5,Short Answer,History,Easy
+Q35,S54,544,43.58,95,8.5,Short Answer,Literature,Easy
+Q36,S96,278,135.27,14,0.7,Multiple Choice,History,Easy
+Q37,S28,778,103.59,31,2.3,Short Answer,Math,Medium
+Q38,S97,118,19.66,47,4.7,Short Answer,Literature,Easy
+Q39,S11,551,29.84,26,2.6,Short Answer,Math,Hard
+Q40,S68,990,24.19,69,7.2,Multiple Choice,Math,Medium
+Q41,S96,325,135.18,99,9.5,Multiple Choice,Literature,Medium
+Q42,S85,405,52.15,0,0.2,Short Answer,Literature,Medium
+Q43,S21,34,177.52,50,4.6,Short Answer,Science,Medium
+Q44,S4,854,101.11,1,0.0,Multiple Choice,Literature,Hard
+Q45,S80,68,163.12,21,2.2,Essay,Literature,Easy
+Q46,S2,315,93.8,31,2.6,Short Answer,Math,Hard
+Q47,S56,634,141.64,94,8.6,Multiple Choice,Literature,Easy
+Q48,S48,73,25.72,100,10.7,Multiple Choice,History,Easy
+Q49,S58,261,31.67,25,1.7,Essay,Geography,Medium
+Q50,S27,519,18.17,0,-1.0,Essay,Science,Easy
+Q1,S36,170,49.11,32,2.6,Short Answer,History,Easy
+Q2,S40,522,10.85,71,6.6,Short Answer,Math,Easy
+Q3,S13,798,72.76,28,3.5,Multiple Choice,History,Hard
+Q4,S93,966,126.74,69,7.5,Multiple Choice,History,Easy
+Q5,S20,410,15.22,0,0.9,Essay,Literature,Easy
+Q6,S56,481,54.52,21,1.3,Short Answer,Geography,Medium
+Q7,S60,305,160.66,79,8.6,Short Answer,History,Medium
+Q8,S84,92,179.92,31,3.3,Essay,Science,Medium
+Q9,S14,838,116.05,97,8.8,Multiple Choice,Math,Easy
+Q10,S78,235,160.53,9,0.9,Essay,Science,Medium
+Q11,S21,890,25.23,56,5.1,Short Answer,Geography,Hard
+Q12,S54,905,48.02,86,9.0,Multiple Choice,History,Hard
+Q13,S93,354,155.15,99,10.7,Multiple Choice,Science,Easy
+Q14,S23,202,154.88,69,6.8,Multiple Choice,Geography,Medium
+Q15,S50,851,145.43,93,8.9,Short Answer,Math,Easy
+Q16,S10,330,88.4,49,4.5,Short Answer,Literature,Easy
+Q17,S80,551,167.39,22,1.8,Essay,Geography,Easy
+Q18,S10,715,128.57,57,5.1,Short Answer,Math,Hard
+Q19,S33,772,156.4,52,5.2,Multiple Choice,Math,Easy
+Q20,S68,19,141.23,32,3.5,Short Answer,Geography,Hard
+Q21,S45,478,121.09,63,6.2,Short Answer,Science,Easy
+Q22,S36,726,16.99,35,2.9,Essay,Literature,Easy
+Q23,S97,967,138.56,52,4.6,Short Answer,History,Hard
+Q24,S98,418,152.28,82,7.8,Essay,Math,Medium
+Q25,S93,109,119.1,47,5.5,Essay,Science,Easy
+Q26,S26,277,169.91,73,7.8,Multiple Choice,Geography,Medium
+Q27,S82,186,24.48,29,3.6,Essay,Geography,Hard
+Q28,S22,886,83.53,20,1.9,Multiple Choice,Science,Easy
+Q29,S54,876,64.52,76,7.9,Essay,Math,Hard
+Q30,S7,406,29.54,19,2.4,Multiple Choice,Literature,Medium
+Q31,S58,269,160.54,34,3.2,Multiple Choice,Math,Hard
+Q32,S42,369,134.26,63,5.5,Essay,History,Hard
+Q33,S41,163,48.35,40,3.7,Essay,Geography,Medium
+Q34,S45,751,114.28,46,5.2,Essay,History,Easy
+Q35,S88,455,123.21,40,3.3,Short Answer,History,Medium
+Q36,S72,910,97.85,82,7.4,Short Answer,Literature,Hard
+Q37,S67,10,167.35,5,-0.2,Multiple Choice,Literature,Medium
+Q38,S99,277,166.92,0,0.7,Multiple Choice,Science,Medium
+Q39,S54,476,45.61,29,3.3,Essay,History,Easy
+Q40,S13,463,151.41,80,8.5,Multiple Choice,Literature,Medium
+Q41,S53,548,78.92,22,2.8,Multiple Choice,History,Easy
+Q42,S97,263,32.8,13,1.8,Multiple Choice,Science,Medium
+Q43,S30,447,83.02,5,1.3,Short Answer,Geography,Hard
+Q44,S44,590,1.71,91,9.5,Short Answer,Science,Hard
+Q45,S80,668,150.99,7,0.9,Short Answer,Math,Hard
+Q46,S54,420,104.24,31,2.4,Multiple Choice,History,Easy
+Q47,S42,448,140.67,46,3.7,Short Answer,History,Hard
+Q48,S81,592,128.2,44,4.3,Short Answer,Math,Hard
+Q49,S38,220,158.93,40,3.9,Multiple Choice,Math,Hard
+Q50,S33,275,98.24,10,0.0,Multiple Choice,History,Medium
+Q1,S91,557,102.67,53,5.3,Multiple Choice,History,Medium
+Q2,S55,413,60.58,77,6.7,Multiple Choice,Literature,Hard
+Q3,S50,628,98.55,0,0.2,Essay,Geography,Hard
+Q4,S78,44,153.93,68,6.7,Short Answer,History,Hard
+Q5,S2,242,144.16,13,2.2,Multiple Choice,History,Hard
+Q6,S57,810,19.94,37,3.4,Essay,Geography,Easy
+Q7,S86,788,117.9,47,5.5,Essay,Math,Medium
+Q8,S48,320,54.9,8,0.8,Multiple Choice,Geography,Medium
+Q9,S49,968,174.96,60,5.0,Short Answer,Literature,Hard
+Q10,S88,281,127.12,96,9.0,Multiple Choice,Science,Medium
+Q11,S36,899,119.37,97,9.9,Multiple Choice,Science,Hard
+Q12,S85,742,160.08,17,1.1,Essay,Science,Medium
+Q13,S2,843,160.86,72,7.8,Short Answer,History,Medium
+Q14,S73,449,4.85,30,2.6,Short Answer,Geography,Easy
+Q15,S72,375,99.07,45,5.0,Multiple Choice,Science,Hard
+Q16,S26,519,34.97,83,7.6,Multiple Choice,Geography,Medium
+Q17,S73,40,168.31,31,2.7,Essay,Science,Medium
+Q18,S50,884,16.79,41,4.4,Multiple Choice,History,Easy
+Q19,S85,469,72.61,50,4.4,Short Answer,Literature,Hard
+Q20,S78,723,113.69,21,1.2,Short Answer,Geography,Medium
+Q21,S56,304,14.96,55,4.7,Essay,History,Hard
+Q22,S100,505,86.36,40,4.9,Multiple Choice,History,Hard
+Q23,S54,716,108.77,16,0.9,Essay,Math,Medium
+Q24,S62,550,78.19,35,4.2,Multiple Choice,Science,Easy
+Q25,S12,628,42.86,43,4.1,Short Answer,Literature,Hard
+Q26,S48,159,83.15,46,3.7,Short Answer,Geography,Easy
+Q27,S96,597,70.55,28,3.5,Short Answer,Literature,Easy
+Q28,S1,200,35.32,57,6.5,Short Answer,Geography,Easy
+Q29,S33,351,118.99,1,-0.7,Short Answer,History,Easy
+Q30,S10,134,116.87,63,5.6,Short Answer,Literature,Hard
+Q31,S89,428,169.17,23,2.6,Short Answer,Math,Hard
+Q32,S71,308,149.22,44,3.9,Essay,Geography,Easy
+Q33,S1,198,170.62,25,3.3,Multiple Choice,Literature,Hard
+Q34,S29,719,60.59,80,7.4,Multiple Choice,History,Medium
+Q35,S48,894,177.58,19,2.2,Multiple Choice,Geography,Hard
+Q36,S31,519,49.17,54,5.4,Essay,Science,Easy
+Q37,S44,169,39.53,87,9.4,Multiple Choice,Science,Hard
+Q38,S88,952,145.62,37,2.7,Multiple Choice,History,Easy
+Q39,S92,819,177.13,72,6.2,Essay,Literature,Hard
+Q40,S82,197,135.96,75,6.5,Essay,History,Hard
+Q41,S86,764,145.37,34,4.1,Essay,Literature,Easy
+Q42,S23,845,175.26,74,7.8,Multiple Choice,Geography,Easy
+Q43,S16,923,66.81,20,2.2,Essay,Geography,Medium
+Q44,S8,83,111.53,44,4.2,Short Answer,Science,Medium
+Q45,S75,96,93.41,98,9.8,Multiple Choice,Literature,Easy
+Q46,S15,341,76.29,83,7.7,Essay,History,Medium
+Q47,S50,500,103.87,72,8.0,Multiple Choice,Geography,Medium
+Q48,S60,658,100.35,8,0.0,Multiple Choice,Math,Medium
+Q49,S64,494,17.06,16,2.5,Multiple Choice,Science,Hard
+Q50,S88,922,115.49,84,7.6,Multiple Choice,Literature,Medium
+Q1,S51,714,129.92,6,0.7,Short Answer,History,Hard
+Q2,S81,839,27.01,51,4.6,Short Answer,Science,Hard
+Q3,S44,810,47.92,18,1.9,Multiple Choice,Geography,Hard
+Q4,S42,241,41.82,71,6.8,Short Answer,Literature,Hard
+Q5,S66,977,85.44,60,6.3,Essay,Literature,Medium
+Q6,S73,966,79.01,58,5.3,Essay,Geography,Medium
+Q7,S46,697,174.15,22,2.3,Essay,Geography,Medium
+Q8,S63,627,131.88,14,1.7,Essay,Literature,Medium
+Q9,S17,605,132.55,80,8.5,Short Answer,Geography,Easy
+Q10,S27,156,65.09,94,9.0,Essay,Literature,Medium
+Q11,S75,941,112.6,92,9.5,Short Answer,Math,Medium
+Q12,S93,862,48.36,35,4.5,Short Answer,Math,Medium
+Q13,S89,698,10.35,85,7.6,Multiple Choice,History,Hard
+Q14,S96,526,13.28,4,0.2,Essay,Math,Easy
+Q15,S98,128,101.72,55,5.9,Short Answer,Geography,Hard
+Q16,S64,264,3.3,65,7.4,Essay,Science,Hard
+Q17,S2,18,63.99,47,4.8,Essay,Math,Easy
+Q18,S41,725,84.77,41,3.6,Essay,Math,Hard
+Q19,S15,462,135.46,75,8.2,Multiple Choice,Literature,Hard
+Q20,S79,831,44.96,100,10.6,Multiple Choice,History,Easy
+Q21,S73,394,43.91,69,7.7,Essay,History,Medium
+Q22,S25,884,72.97,71,8.0,Short Answer,Science,Medium
+Q23,S54,272,143.2,80,7.5,Multiple Choice,Math,Easy
+Q24,S84,443,6.93,81,7.9,Short Answer,Math,Medium
+Q25,S34,649,168.58,80,8.1,Multiple Choice,History,Medium
+Q26,S6,541,4.07,78,7.0,Short Answer,Math,Medium
+Q27,S53,757,98.37,98,9.1,Essay,History,Hard
+Q28,S68,126,43.9,74,7.3,Short Answer,Math,Hard
+Q29,S62,655,57.62,21,2.8,Essay,Literature,Easy
+Q30,S40,527,158.45,92,9.5,Essay,History,Medium
+Q31,S48,84,144.66,66,6.6,Multiple Choice,History,Easy
+Q32,S30,874,38.99,44,5.4,Short Answer,Geography,Easy
+Q33,S15,549,58.15,7,-0.1,Short Answer,History,Easy
+Q34,S68,138,110.5,20,1.1,Short Answer,Literature,Hard
+Q35,S21,293,165.94,3,1.0,Essay,Literature,Hard
+Q36,S23,322,106.71,27,2.5,Short Answer,History,Medium
+Q37,S17,130,105.4,16,1.9,Multiple Choice,Literature,Easy
+Q38,S82,635,147.07,11,1.6,Essay,Science,Easy
+Q39,S1,644,53.98,47,5.2,Multiple Choice,Science,Easy
+Q40,S43,699,51.09,85,8.2,Short Answer,Geography,Medium
+Q41,S11,868,80.72,54,6.2,Multiple Choice,History,Medium
+Q42,S88,237,155.39,18,1.5,Short Answer,History,Medium
+Q43,S89,974,94.36,45,3.5,Multiple Choice,Geography,Medium
+Q44,S23,594,46.6,27,1.9,Essay,Literature,Easy
+Q45,S90,898,46.68,14,2.2,Multiple Choice,Literature,Medium
+Q46,S53,707,79.07,31,3.5,Essay,Math,Medium
+Q47,S22,144,134.39,84,7.7,Short Answer,Science,Medium
+Q48,S74,124,65.74,73,7.8,Essay,Literature,Medium
+Q49,S56,249,82.77,98,9.2,Short Answer,Geography,Easy
+Q50,S45,524,175.39,97,8.9,Multiple Choice,Geography,Hard
+Q1,S64,409,87.62,29,2.0,Essay,Geography,Hard
+Q2,S29,80,8.55,17,2.5,Multiple Choice,History,Hard
+Q3,S89,219,110.67,74,6.8,Multiple Choice,History,Hard
+Q4,S48,164,136.97,45,4.5,Multiple Choice,Science,Hard
+Q5,S66,662,116.99,75,7.9,Essay,Science,Hard
+Q6,S86,321,14.98,65,6.5,Essay,Science,Hard
+Q7,S79,447,81.85,76,7.9,Short Answer,Geography,Easy
+Q8,S28,948,59.49,16,1.4,Multiple Choice,Geography,Medium
+Q9,S36,755,160.85,67,7.4,Short Answer,Geography,Medium
+Q10,S10,403,5.88,39,3.6,Multiple Choice,History,Easy
+Q11,S14,191,178.93,8,0.2,Short Answer,Literature,Easy
+Q12,S16,105,47.9,74,7.2,Multiple Choice,Math,Hard
+Q13,S14,208,167.48,13,0.5,Short Answer,History,Medium
+Q14,S65,630,21.38,96,9.9,Short Answer,Math,Easy
+Q15,S78,55,76.89,78,8.3,Multiple Choice,Science,Easy
+Q16,S46,633,84.2,35,3.0,Multiple Choice,Math,Hard
+Q17,S86,656,54.9,82,8.0,Multiple Choice,Science,Medium
+Q18,S55,555,98.77,34,3.3,Multiple Choice,Geography,Easy
+Q19,S91,16,175.19,60,5.3,Multiple Choice,History,Medium
+Q20,S6,492,124.19,6,0.8,Essay,Science,Medium
+Q21,S96,439,64.84,6,-0.3,Short Answer,Math,Easy
+Q22,S51,665,120.2,51,4.5,Multiple Choice,History,Hard
+Q23,S63,260,76.08,22,2.0,Short Answer,History,Hard
+Q24,S3,408,32.65,94,9.1,Multiple Choice,Literature,Medium
+Q25,S35,408,74.31,11,0.8,Essay,Science,Easy
+Q26,S76,7,145.13,53,6.3,Short Answer,Math,Hard
+Q27,S46,33,104.09,95,9.9,Multiple Choice,Science,Medium
+Q28,S71,791,12.96,51,5.7,Multiple Choice,Geography,Hard
+Q29,S65,754,110.56,98,10.5,Essay,Geography,Hard
+Q30,S55,422,165.17,85,8.7,Essay,Literature,Easy
+Q31,S83,916,155.58,64,6.5,Multiple Choice,History,Hard
+Q32,S30,8,4.62,47,5.4,Multiple Choice,History,Easy
+Q33,S77,170,90.71,67,7.4,Multiple Choice,History,Easy
+Q34,S13,989,99.96,43,4.7,Short Answer,Geography,Medium
+Q35,S24,171,173.0,52,5.0,Essay,Science,Easy
+Q36,S54,702,136.23,75,7.7,Short Answer,Literature,Easy
+Q37,S25,501,80.01,19,2.3,Essay,History,Hard
+Q38,S32,569,79.76,15,1.1,Essay,Science,Medium
+Q39,S67,520,38.7,55,5.8,Multiple Choice,Geography,Hard
+Q40,S21,304,49.76,47,3.9,Essay,Science,Hard
+Q41,S12,949,26.25,95,9.4,Multiple Choice,Geography,Medium
+Q42,S76,788,88.19,60,5.0,Short Answer,Literature,Easy
+Q43,S20,818,16.11,57,6.4,Multiple Choice,Science,Easy
+Q44,S71,494,20.85,1,-0.7,Essay,History,Hard
+Q45,S35,490,54.07,27,3.3,Multiple Choice,Math,Easy
+Q46,S78,610,27.11,50,4.8,Multiple Choice,History,Easy
+Q47,S96,220,64.56,67,6.5,Short Answer,Math,Hard
+Q48,S41,634,145.6,10,0.1,Essay,Literature,Medium
+Q49,S99,704,110.72,92,9.9,Essay,Literature,Hard
+Q50,S100,352,7.73,41,3.2,Essay,Literature,Easy
+Q1,S55,522,111.36,99,9.4,Essay,History,Hard
